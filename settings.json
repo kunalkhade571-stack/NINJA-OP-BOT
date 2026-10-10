@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "NINJASMP07.aternos.me",
+    "port": 15471,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
